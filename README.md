@@ -1,3 +1,5 @@
+Discord - hawkins850
+
 # lottery.aleo
 
 ## Run Guide
